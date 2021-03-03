@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap");
+#skills-section {
+  /* border: 2px solid red; */
+  padding: 2.5rem;
+}
+
+#skills-section h1 {
+  text-align: center;
+  font-size: 5.5rem;
+  font-family: "Caveat", cursive;
+  color:#ffff;
+  text-shadow: -4px 6px 3px rgb(236, 149, 158);
+}
+
+#skills {
+  /* border: 2px solid red; */
+  margin: 0.5rem;
+  padding: 3.5rem;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 1.5rem;
+}
+
+.icon-card {
+  border: none;
+  border-color: transparent;
+  padding: 0;
+  text-align: center;
+  background-color: #3c34343b;
+  transition: all ease-in 0.3s;
+}
+
+.icon-card img {
+  width: 100px;
+  padding: 0;
+}
+
+.icon-card:hover {
+  cursor: pointer;
+  background-color: black;
+  transform: scale(1.1);
+}
