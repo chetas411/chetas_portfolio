@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chetas_portfolio/static/css/main.0ea3bc84.chunk.css",
+    "main.js": "/chetas_portfolio/static/js/main.844bd0d0.chunk.js",
+    "main.js.map": "/chetas_portfolio/static/js/main.844bd0d0.chunk.js.map",
+    "runtime-main.js": "/chetas_portfolio/static/js/runtime-main.4051217c.js",
+    "runtime-main.js.map": "/chetas_portfolio/static/js/runtime-main.4051217c.js.map",
+    "static/js/2.68686737.chunk.js": "/chetas_portfolio/static/js/2.68686737.chunk.js",
+    "static/js/2.68686737.chunk.js.map": "/chetas_portfolio/static/js/2.68686737.chunk.js.map",
+    "index.html": "/chetas_portfolio/index.html",
+    "static/css/main.0ea3bc84.chunk.css.map": "/chetas_portfolio/static/css/main.0ea3bc84.chunk.css.map",
+    "static/js/2.68686737.chunk.js.LICENSE.txt": "/chetas_portfolio/static/js/2.68686737.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/chetas_portfolio/static/media/bg.8ef7c57d.jfif",
+    "static/media/profile.15404abf.png": "/chetas_portfolio/static/media/profile.15404abf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4051217c.js",
+    "static/js/2.68686737.chunk.js",
+    "static/css/main.0ea3bc84.chunk.css",
+    "static/js/main.844bd0d0.chunk.js"
+  ]
+}
