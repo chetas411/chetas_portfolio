@@ -7,6 +7,7 @@
   flex-direction: row-reverse;
   justify-content: space-between;
   z-index: 10;
+  /* border: 2px solid red; */
 }
 
 .navbar-right {
@@ -45,4 +46,18 @@
 .social-icons {
     margin-right: 1rem;
     padding-bottom: 0.5rem;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 800px){
+  #navbar {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .navbar-right{
+    display: none;
+  }
+
 }

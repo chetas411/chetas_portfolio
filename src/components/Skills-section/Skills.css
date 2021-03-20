@@ -14,7 +14,7 @@
 
 #skills {
   /* border: 2px solid red; */
-  margin: 0.5rem;
+  margin: auto auto;
   padding: 3.5rem;
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -28,10 +28,13 @@
   text-align: center;
   background-color: #3c34343b;
   transition: all ease-in 0.3s;
+  /* border: 2px solid red; */
 }
 
 .icon-card img {
+  /* border: 2px solid red; */
   width: 100px;
+  margin: auto auto;
   padding: 0;
 }
 
@@ -39,4 +42,18 @@
   cursor: pointer;
   background-color: black;
   transform: scale(1.1);
+}
+
+@media only screen and (max-width: 800px){
+    
+  #skills {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (max-width: 500px){
+    
+  #skills {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }

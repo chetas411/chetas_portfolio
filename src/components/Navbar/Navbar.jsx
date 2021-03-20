@@ -4,7 +4,9 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import EmailIcon from "@material-ui/icons/Email";
 import IconButton from "@material-ui/core/IconButton";
+// import MenuIcon from '@material-ui/icons/Menu';
 import "./Navbar.css";
+
 
 const Navbar = () => {
   return (
