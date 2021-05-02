@@ -61,6 +61,29 @@ const Timeline = () => {
         <div className="section">
           <div className="bead"></div>
           <div className="content">
+            <h2>PlayListify</h2>
+            <p>
+              PlayListify is web app using which spotify users can create playlists of the top tracks and top artitst they listen on Spotify. Uers can also view their recent history of the songs they played.
+            </p>
+            <a
+              href="https://github.com/chetas411/playListify-Frontend"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>
+            <a
+              href="https://playlistifyweb.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Go Live
+            </a>
+          </div>
+        </div>
+        <div className="section">
+          <div className="bead"></div>
+          <div className="content">
             <h2>Chat Application</h2>
             <p>
               A chat application which allows real time messaging. Users can
@@ -101,31 +124,6 @@ const Timeline = () => {
             </a>
             <a
               href="https://serene-sea-62139.herokuapp.com/"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Go Live
-            </a>
-          </div>
-        </div>
-        <div className="section">
-          <div className="bead"></div>
-          <div className="content">
-            <h2>Live Weather App</h2>
-            <p>
-              A Dynamic weather app which fetches the live weather data of any
-              city using
-              <strong> Open Weather API</strong>
-            </p>
-            <a
-              href="https://github.com/chetas411/Live-Weather-App"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Github
-            </a>
-            <a
-              href="https://calm-atoll-96873.herokuapp.com/"
               target="_blank"
               rel="noreferrer"
             >
