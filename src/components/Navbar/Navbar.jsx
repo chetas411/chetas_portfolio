@@ -23,7 +23,7 @@ const Navbar = () => {
         </div>
         <div className="navbar-item">
           <a
-            href="https://drive.google.com/file/d/1npSuH3SWHockdlAYYZKze_ZRymCat0AL/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pcSs4n7X1NKTRJsanIkXhrx6xBkpaLtR/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >

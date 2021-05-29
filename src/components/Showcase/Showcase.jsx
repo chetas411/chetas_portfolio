@@ -1,7 +1,7 @@
 import React from 'react';
 import Typical from 'react-typical';
 import './Showcase.css';
-import Imgpath from '../../images/profile.jpg';
+import Imgpath from '../../images/profilenew.jpg';
 
 const Showcase = () => {
     return (
