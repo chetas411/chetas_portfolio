@@ -98,7 +98,7 @@ const Timeline = () => {
               Github
             </a>
             <a
-              href="https://60367b2089964a383312dfd5--brave-einstein-51ed19.netlify.app/"
+              href="https://chatterroom.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
